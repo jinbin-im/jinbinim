@@ -95,7 +95,7 @@ permalink: /research/
       <div class="title"><strong>Development of Multi-functional Construction Robots to Enhance Productivity in Apartment Housing Construction
 </strong></div>
       <div class="project-meta">
-        <span class="project-role">Research Assistant</span> • 
+        <span class="project-role">Research Fellow</span> • 
         <span class="project-affiliation"> CB&PM Lab. (Hanyang University)</span> • 
         <span class="project-org">Ministry of Land, Infrastructure and Transport</span>
       </div>
@@ -107,7 +107,7 @@ permalink: /research/
     <div class="project-content">
       <div class="title"><strong>Development of Artificial Intelligence-based Real-Time Construction Quality Management System</strong></div>
       <div class="project-meta">
-        <span class="project-role">Research Assistant</span> • 
+        <span class="project-role">Research Fellow</span> • 
         <span class="project-affiliation"> CB&PM Lab. (Hanyang University)</span> •         
         <span class="project-org">National Research Foundation of Korea</span>
       </div>

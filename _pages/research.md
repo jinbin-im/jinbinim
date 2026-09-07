@@ -87,7 +87,7 @@ permalink: /research/
 </section>
 
 <section id="projects" class="research-section">
-  <h2>Research Projects</h2>
+  <h2>Research Project</h2>
 
   <div class="project-item">
     <div class="project-period">Apr. 2026–Present</div>

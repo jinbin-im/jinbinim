@@ -30,7 +30,7 @@ permalink: /research/
     <div class="author-co">Co-author</div>
     <div class="research-content">
       <div class="title">Weather-adaptive automated pipe counting for open-air construction storage: Leveraging synthetic data augmentation and YOLO-Network Family</div>
-      <div class="periodical">Submitted to <a href="https://ascelibrary.org/journal/jccee5" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Scientific Reports/em></a></div>
+      <div class="periodical">Submitted to <a href="https://ascelibrary.org/journal/jccee5" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Scientific Reports</em></a></div>
     </div>
   </div>
   

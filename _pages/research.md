@@ -9,6 +9,30 @@ permalink: /research/
   
   <!-- Under Review -->
   <h2 class="bibliography">Under Review</h2>
+   
+  <div class="research-item">
+    <div class="author-first">Co-First author</div>
+    <div class="research-content">
+      <div class="title">Strategic Pathways for e-Methanol Deployment in the Low-Carbon Transition: Policy Modeling of Cost Competitiveness and Flexibility Requirements in Korea</div>
+      <div class="periodical">Submitted to <a href="https://www.sciencedirect.com/journal/energy-strategy-reviews" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Energy Strategy Reviews</em></a></div>
+    </div>
+  </div>
+
+   <div class="research-item">
+    <div class="author-corresponding">Corresponding author</div>
+    <div class="research-content">
+      <div class="title">Beyond Viewing: How Installation Artwork Design Modality Shapes Visitor Satisfaction Through Affective and Behavioral Pathways</div>
+      <div class="periodical">Submitted to <a href="https://www.tandfonline.com/journals/rfdj20" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>the Design Journal</em></a></div> 
+    </div>
+  </div> 
+  
+  <div class="research-item">
+    <div class="author-co">Co-author</div>
+    <div class="research-content">
+      <div class="title">Weather-adaptive automated pipe counting for open-air construction storage: Leveraging synthetic data augmentation and YOLO-Network Family</div>
+      <div class="periodical">Submitted to <a href="https://ascelibrary.org/journal/jccee5" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Scientific Reports/em></a></div>
+    </div>
+  </div>
   
   <div class="research-item">
     <div class="author-first">First author</div>
@@ -18,30 +42,6 @@ permalink: /research/
     </div>
   </div>
   
-  <div class="research-item">
-    <div class="author-first">Co-First author</div>
-    <div class="research-content">
-      <div class="title">Strategic Pathways for e-Methanol Deployment in the Low-Carbon Transition: Policy Modeling of Cost Competitiveness and Flexibility Requirements in Korea</div>
-      <div class="periodical">Submitted to <a href="https://www.sciencedirect.com/journal/energy-strategy-reviews" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Energy Strategy Reviews</em></a></div>
-    </div>
-  </div>
-  
-  <div class="research-item">
-    <div class="author-co">Co-author</div>
-    <div class="research-content">
-      <div class="title">Weather-adaptive automated pipe counting for open-air construction storage: Leveraging synthetic data augmentation and YOLO-Network Family</div>
-      <div class="periodical">Submitted to <a href="https://ascelibrary.org/journal/jccee5" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Journal of Computing in Civil Engineering</em></a></div>
-    </div>
-  </div>
-  
-   <div class="research-item">
-    <div class="author-corresponding">Corresponding author</div>
-    <div class="research-content">
-      <div class="title">Beyond Viewing: How Installation Artwork Design Modality Shapes Visitor Satisfaction Through Affective and Behavioral Pathways</div>
-      <div class="periodical">Submitted to <a href="https://www.tandfonline.com/journals/rfdj20" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>the Design Journal</em></a></div> 
-    </div>
-  </div> 
-
   <div class="research-item">
     <div class="author-first">First author</div>
     <div class="research-content">
@@ -58,7 +58,7 @@ permalink: /research/
     <div class="research-content">
       <div class="title">Affect as a quantifiable design requirement: modelling the multi-dimensional affective response of residential interiors</div>
 <!--      
-      <div class="periodical">Submitted to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Advanced Engineering Informatics</em></a></div> 
+      <div class="periodical">Submitted to <a href="https://www.sciencedirect.com/journal/advanced-engineering-informatics" target="_blank" style="color: #7b27d8; text-decoration: none;"><em>Architectural Science Review</em></a></div> 
 -->
     </div>
   </div>  

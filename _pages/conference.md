@@ -5,7 +5,7 @@ permalink: /conference/
 ---
 
 <section id="conferences" class="conferences-section">
-  <h2>Conferences</h2>
+  <h2>Conference</h2>
   
   <div class="publications">
     {% bibliography --file conferences --template conferences %}

@@ -120,7 +120,7 @@ permalink: /
 </section>
 
 <section id="publications" class="publications-section">
-  <h2>Papers</h2>
+  <h2>Paper</h2>
   
   <div class="bibliography">
     {% bibliography --file papers --template papers %}
